@@ -1,5 +1,10 @@
+**** csv 파일 받는 곳 https://goo.gl/m3eCrf****
+
+
 #!/usr/bin/env python
 # coding: utf-8
+
+
 
 # **실습3**
 # ### **winequality_red 데이터를 이용한 <span style="color:darkgreen">AI분류</span> 문제**
